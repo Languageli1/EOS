@@ -1,5 +1,7 @@
 Equation of state of warm dense matter.
 
+FeS_Martian_core_EOS.py is equation of state of Fe3S liquid at the Martian core condition.
+
 Detailed informations about equation of state was shown in the reference
 
 [1] Li, W.-J., Li, Z., Ma, Z., Zhou, J., Wang, C., Zhang, P., 2024. Thermoelastic Properties and Thermal Evolution of the Martian Core From Ab Initio Calculated Magnetic Fe-S Liquid. Journal of Geophysical Research: Planets 129, e2023JE007874.
